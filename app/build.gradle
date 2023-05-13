@@ -55,4 +55,7 @@ dependencies {
     implementation 'android.arch.navigation:navigation-ui-ktx:1.0.0'
 
     implementation 'com.android.databinding:viewbinding:7.3.1'
+
+    implementation("androidx.fragment:fragment-ktx:$fragment_version")
+
 }

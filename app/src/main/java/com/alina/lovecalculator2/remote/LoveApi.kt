@@ -1,4 +1,4 @@
-package com.alina.lovecalculator2
+package com.alina.lovecalculator2.remote
 
 import retrofit2.Call
 import retrofit2.http.GET

@@ -1,6 +1,5 @@
-package com.alina.lovecalculator2
+package com.alina.lovecalculator2.remote
 
-import com.google.gson.Gson
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 

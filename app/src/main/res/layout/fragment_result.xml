@@ -9,6 +9,7 @@
 
 
     <TextView
+        android:text="Male Name"
         android:id="@+id/et_MaleName"
         android:textSize="26sp"
         android:layout_marginTop="16dp"
@@ -30,7 +31,7 @@
 
 
     <TextView
-        android:id="@+id/et_result"
+        android:id="@+id/tv_result"
         android:textSize="26sp"
         android:layout_marginTop="16dp"
         android:layout_width="wrap_content"
